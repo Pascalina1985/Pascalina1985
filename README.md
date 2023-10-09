@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pascalina1985
+- 👋 Hi, I’m @Pascal
 - 👀 I’m interested in Web Applications
 - 🌱 I’m currently learning JavaScript, CSS and HTML
 - 💞️ I’m looking to collaborate on Projekts
